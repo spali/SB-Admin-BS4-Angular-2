@@ -30,7 +30,7 @@
   "author": "Nitin Kumar Mishra",
   "license": "MIT",
   "devDependencies": {
-    "angular2-hot-loader": "0.0.17",
+    "angular2-hot-loader": "0.0.21",
     "async": "^1.4.2",
     "browserify": "^13.0.0",
     "chalk": "^1.1.1",
@@ -87,7 +87,7 @@
     "yargs": "^3.32.0"
   },
   "dependencies": {
-    "angular2": "2.0.0-beta.2",
+    "angular2": "2.0.0-beta.9",
     "bootstrap": "3.3.5",
     "c3": "0.4.11",
     "chart.js": "1.0.2",
@@ -99,10 +99,10 @@
     "highcharts": "4.2.3",
     "jquery": "1.12.0",
     "moment": "2.11.2",
-    "ng2-bootstrap": "1.0.2-beta.1",
+    "ng2-bootstrap": "1.0.7",
     "reflect-metadata": "0.1.2",
-    "rxjs": "5.0.0-beta.0",
+    "rxjs": "5.0.0-beta.2",
     "systemjs": "0.19.9",
-    "zone.js": "0.5.10"
+    "zone.js": "0.5.15"
   }
 }
