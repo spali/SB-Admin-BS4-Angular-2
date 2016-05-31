@@ -37,6 +37,7 @@ build/Release
 .vscode
 *.iml
 
+/app/assets/main.css
 /dist/
 dev
 docs
